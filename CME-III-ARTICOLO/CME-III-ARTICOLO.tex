@@ -6,7 +6,7 @@
               %                © 2013-2017               %
               %                                          %
               %******************************************%
-       
+
 % I seguenti commenti speciali impostano:
 % 1. utf8 come codifica di input,
 % 2. PDFLaTeX come motore di composizione;
@@ -15,7 +15,7 @@
 
 % !TEX encoding = UTF-8 Unicode
 % !TEX TS-program = pdflatex
-% !TEX root = Articolo.tex
+% !TEX root = CME-III-ARTICOLO.tex
 % !TEX spellcheck = it-IT
 
 \documentclass[11pt,%                       % corpo del font principale
@@ -26,7 +26,7 @@
                BCOR5mm,%                    % rilegatura di 5 mm
                captions=tableheading,%      % didascalie in cima alle tabelle
                ]{scrartcl}                  % classe report di KOMA-Script;
-               
+
 \usepackage[T1]{fontenc}                    % codifica dei font:
                                             % NOTA BENE! richiede una distribuzione *completa* di LaTeX,
                                             % per esempio TeXLive o MiKTeX *complete*
@@ -48,23 +48,23 @@
 \usepackage{amsmath,amssymb,amsthm}         % matematica
 
 \usepackage[italian]{varioref}              % riferimenti completi della pagina
- 
+
 \usepackage{tabularx}                       % tabelle di larghezza prefissata
 
 \usepackage[style=philosophy-modern,hyperref,square]{biblatex}
                                             % eccellente pacchetto per la bibliografia;
-                                            % produce uno stile di citazione autore-anno; 
+                                            % produce uno stile di citazione autore-anno;
                                             % lo stile "numeric-comp" produce riferimenti numerici
-                                          
-\addbibresource{Bibliografia.bib}           % database di biblatex 
-                                          
+
+\addbibresource{Bibliografia.bib}           % database di biblatex
+
 \usepackage{subfig}                         % sottofigure, sottotabelle
 
 \usepackage{lipsum}                         % testo fittizio
 
 \usepackage{eurosym}                        % simbolo dell'euro
 
-\usepackage[nochapters,%                    % per scrivere un articolo        
+\usepackage[nochapters,%                    % per scrivere un articolo
             subfig,%                        % se si usa il pacchetto subfig
             beramono,%                      % Bera Mono come font a spaziatura fissa
             eulermath,%                     % AMS Euler come font per la matematica
@@ -78,7 +78,7 @@
 \input{impostazioni-articolo}               % file con le impostazioni personali
 
 \begin{document}
-\pagestyle{scrheadings} 
+\pagestyle{scrheadings}
 %******************************************************************
 % Materiale iniziale
 %******************************************************************
