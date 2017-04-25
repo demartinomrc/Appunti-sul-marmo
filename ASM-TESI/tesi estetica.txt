@@ -22,15 +22,7 @@ Pindaro
 Qui, l’incedere di una risonanza è legata ad un corpo/luogo, lentamente mutabile: uno spazio che è memoria di superficie. Abitare questo ascolto è stato il primo passo della scrittura, il formalizzarsi e il perdersi di una molteplice voce, abitante abitato da ”per sempre”. 
 
 La scelta del luogo, dello spazio d'ascolto è il punto di partenza. Partenza (come dipartita), della stessa scrittura strumentale tradizionale. 
-Lo studio dello spazio di San Luca ha instaurato diverse relazioni che congiungono i diversi strati di elaborazione, dalla macro alla micro struttura. 
-
-
-
-
-
-Estetiche dello spazio: rimando e lontananza
-[[[[[[[in bilico ]]]]]]]
-
+Lo studio dello spazio di San Luca ha instaurato diverse relazioni che congiungono i diversi strati di elaborazione, dalla macro alla micro-struttura.
 
 
 
@@ -40,13 +32,16 @@ Coscienza di scrittura
 
 L'immemorialità dell'evento scandisce sia il gesto formale che la struttura, organizzando i contributi qualitativi del suono e la loro distribuzione temporale e spaziale. Immemorialità dello stesso suono come strumento trasformato e non riconducibile a:
 
-altezze temperata.
+altezza temperata.
 
-È volutamente ricercato nello strumento la sua oscillazione  attorno a dei poli frequenziali (descritti successivamente), cercando la massima “instabilità-controllata”.   Lo stesso vale per i battimenti, altri importanti operatori di trasformazione.
+È volutamente ricercato nello strumento la sua oscillazione  attorno a dei poli frequenziali (descritti successivamente), cercando la massima <<instabilità-controllata>>. Giochi di oscillazione che intercorrono tra l’evidente parametro multifonico e la sua de-costruzione timbrica.   Lo stesso vale per i battimenti, altri importanti operatori di trasformazione.
 
 
 -----fileA------
 
+
+Los studio sul sassofono soprano è partito dalle sue possiblità microtonali. [Non viene seguita una scala 
+discorso sabat]
 
 
 modalità di emissione omogenea
@@ -59,7 +54,15 @@ Perché il sassofono?
 
 Le caratteristiche cercate in questo strumento si basano sulla possibilità di insistere su determinati fattori ;
 il corpo/bocca dello strumentista,  le modifiche della colonna armonica, i suoi armonici sovracuti, doppiati e triplicati nel medesimo tempo/istante.
-Il sassofono soprano rende possibile la continua modulazione tra multifonici: una “corrente continua”,  dove il movimento lento (pensato assieme all'impronta elettronica del luogo) permette lo stazionamento di determinate parziali e il passaggio fluido tra differenti bicordi.
+Il sassofono soprano rende possibile la continua modulazione tra multifonici: una “corrente continua”,  dove il movimento lento (pensato assieme all'impronta elettronica del luogo) permette lo stazionamento di determinate parziali e il passaggio fluido tra differenti bicordi. È stato fondamentale lo studio dei parziali multifonici, il loro isolamento monodico e la possibilità di e “entrare” ed “uscire” dalla posizione di generazione multifonica.
+
+Possiamo dividere le qualità di queste parziali in famiglie:
+
+disegnino1* = parziali <<treshold tones>>  - 
+disegnino2 = <<shadow sound>>: suoni che non possono essere i solati. È stato posto l’accento sulle possibili aberrazioni che si pongono su ottave differenti rispetto al suono cardine, rendendo il contenuto spettrale più instabile e ricco.
+disegnino3 = instabile : alcune regioni frequenziali di multifonici presentano una difficile risposta. Battimenti o parziali sovracuti avranno una risposta non lineare. Si deve tendere a cercare una sorta di <<modulazione di ampiezza>>. Cercare il suono.
+* i simboli sono presi dal trattato di Weiss e Netti
+
 
 Qui l'esempio di partitura
 
@@ -67,11 +70,11 @@ Qui l'esempio di partitura
 
 
 
-Conseguenziale a questo tipo di scrittura il  rapporto e la pratica con lo strumentista. Le tecniche estese di partenza vengono dagli studi di Weiss e Netti1,ma il percorso di elaborazione, di nuova scoperta di emissione e modulazione di timbro e altezze è stato condotto assieme al sassofonista Danilo Perticaro.
+Conseguenziale a questo tipo di scrittura il  rapporto e la pratica con lo strumentista. Le tecniche estese di partenza vengono dagli studi di Weiss e Netti,ma il percorso di elaborazione, di nuova scoperta di emissione e modulazione di timbro e altezze è stato condotto assieme al sassofonista Danilo Perticaro.
 
 [[[[[a specchio da una parte le Qualità sonore da l'altra i suoni cardine]]]]]
 
-Qualità sonore                           suoni cardine del brano*                                               
+Qualità sonore e trasformazione                          suoni cardine del brano*                                               
  Ogni diteggiatura nel suo legarsi              
  presenta un effetto di modifica non solo
  frequenziale ma dello spettro stesso delle
@@ -82,7 +85,7 @@ Qualità sonore                           suoni cardine del brano*
  
  frequenza ambigua che interpola
  
- Emissione - soffio battimento
+ Emissione - soffio - battimento
  
  
 schema microstruttura con modifica del suono:
@@ -91,8 +94,7 @@ file E
 fondamentale -parziale accrescimento-svuotamento
 
 
-la logica d'uso di queste tecniche si pone lontana dagli schematismi di "effetto" che ruotano attorno all'articolazione
-di note                                     
+la logica d'uso di queste tecniche si pone lontana dagli schematismi di "effetto" che ruotano attorno all'articolazione di note.                                      
 
 
 
@@ -103,22 +105,25 @@ di note
 
 
 
-La logica spaziale proposta con la risposta all'impulso e la riproduzione tramite sistema tetraedrico, ha portato a concepire un uso delle fonti sonore che gravitano interne all'ambiente della chiesa di San Luca. La registrazione e la riproduzione tramite sistema A-format permetteva di delineare una cartografia tridimensionale degli eventi: tramite un'azione musicale preparata sono stati controllati e scanditi i materiali suonati all'interno della chiesa.
-La logica di registrazione segue il quadrante interno alla chiesa utilizzato per gli impulsi, quindi avremo sempre una spazializzazione delle componenti.
+La logica spaziale proposta con la risposta all'impulso e la riproduzione tramite sistema tetraedrico, ha portato a concepire un uso delle fonti sonore che gravitano interne all'ambiente della chiesa di San Luca. La registrazione e la riproduzione tramite sistema A-format permetteva di delineare una cartografia tridimensionale degli eventi: tramite un'azione musicale preparata sono stati controllati e scanditi i materiali suonati all'interno della chiesa: preparata in quanto si vuole nascondere il più possibile l’evento acustico dalla percezione familiare, dal suo effettivo sguardo <<concreto>>.
+La logica di registrazione segue il quadrante interno alla chiesa utilizzato per gli impulsi.
+struttura del nastro.
 
-struttura del nastro
+Note 
 
 Tre esecutori                                                            
 la durata del nastro è di circa 10 minuti.
-il nastro è comunque ad libitum. Sarà chiuso il processo da parte del regista del suono, l'incontro con la parte strumentale è fortemente aleatoria.
+è da considerare ad libitum. Sarà chiuso il processo da parte del regista del suono.
+L'incontro con la parte strumentale è fortemente aleatoria. Environment attorno all’ascoltatore, attorno allo strumentista,con un range medio-grave. È possibile riscrivere il nastro partendo dai materiali e dallo schema relativo alle dinamiche generale. Il tutto deve essere tra <<pppppp>> e <<pp>>. Mai s
 
 MATERIALI
 
-A= ambiente esterno alla chiesa
+A= ambiente esterno alla chiesa [controllare adeguatamento il livello d'ingresso del soundfield]
 B= banchi da chiesa (scricchiolio)
 C= sedie
 D= passi
 E= voci
+
 
 
 
@@ -129,7 +134,15 @@ Schema
 
 
 La scelta di preparare  dal vivo il materiale  concreto e non elaborarlo successivamente è dato dal fatto che i 4 tape
-registrati dal soundfield potevano andare incontro a sfasamenti che toglievano tridimensionalità 
+registrati dal soundfield potevano andare incontro a sfasamenti togliendo la componente tridimensionale. Solo tagli e riposizionanamenti del nastro, fade in e fade out delle tracce.
+
+
+Sono stati registrate due azioni con una configurazione dei microfoni diversa, per poi essere integrati nell'esecuzione:
+
+quadrante A            +             quadrante b
+
+
+Come si vede dallo schema la tridimensionalità del nastro è prevista solo per i relativi STone: in questo caso solo quelli anteriori, paralleli alla posizione dello strumentista. Su gli altri 2 STone è prevista diffusione omnidirezionale.
 
 
 Schema di tracce mandate agli STone
@@ -137,10 +150,46 @@ Schema di tracce mandate agli STone
 
 
 
-Struttura
+La discesa come struttura.
 
 
-La discesa come struttura, la discesa come forma  ancore/poli – battimenti -
+
+Il tragitto costruito tramite il sassofono soprano è direttamente intrecciato alle sue possibilità di intreccio e passaggio da un certo grado intervallare e l’altro.
+
+
+
+Klangqualitatemelodie
+
+Linee a b
+
+
+Elaborazione microtonale
+
+
+
+Intervallo di polarità 6 minore terze
+
+
+
+intervalli principali
+
+
+
+la discesa come forma  ancore/poli – battimenti -
+variazioni delle qualità attorno a i poli. tipo di variazione 
+
+
+
+
+
+
+
+variazione informale
+
+operatori di instabilità
+
+
+
 
 
 
