@@ -70,7 +70,7 @@ Ricordiamo che le prime riflessioni differiscono dal suono diretto sia per tempo
 
 "The amount of energy, or power, removed by a given area of absorbing material will depend on the energy, or power, per unit area striking it. As the sound intensity is a measure of the power per unit area this means that the intensity of the sound reflected is reduced in proportion to the absorption coefficient."
 
-importante è anche sottolineare come i materiali descritti in precedenza siano analizzati e ricondotti ad una misurazione della riflessione “regionale”, specifica ai punti del quadrato, raccogliendo informazioni riguardo alle differenti future risposte registrate.
+importante è anche sottolineare come i materiali descritti in precedenza siano analizzati e ricondotti ad una misurazione della riflessione “regionale”, specifica ai punti del quadrato, raccogliendo informazioni riguardo alle differenti risposte registrate.
 
 [Lp ≅LW +10logA4]
 
