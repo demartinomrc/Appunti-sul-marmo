@@ -23,7 +23,7 @@
                a4paper,%                   % carta A4
                twoside,openright,%         % fronte-retro
 %              oneside,openany,%           % solo fronte
-               %titlepage,%                 % frontespizio
+               titlepage,%                 % frontespizio
                headinclude,,footinclude,%  % testatina e piede di pagina
                BCOR5mm,%                   % rilegatura di 5 mm
                cleardoublepage=empty,%     % pagine vuote senza testatina e piede di pagina
@@ -89,6 +89,7 @@
 
 \input{impostazioni-tesi}                  % file con le impostazioni personali
 
+\usepackage{pdfpages}
 
 \begin{document}
 \pagestyle{scrheadings} 
@@ -97,24 +98,34 @@
 % Materiale iniziale
 %******************************************************************
 \input{MaterialeInizialeFinale/Frontespizio}
-\input{MaterialeInizialeFinale/Colophon}
+%\input{MaterialeInizialeFinale/Colophon}
 \input{MaterialeInizialeFinale/Dedica}
+\input{MaterialeInizialeFinale/Foto}
+%\input{MaterialeInizialeFinale/Dedica}
 \input{MaterialeInizialeFinale/Indici}
 \input{MaterialeInizialeFinale/Sommario+Abstract}
 \input{MaterialeInizialeFinale/Ringraziamenti}
-\input{MaterialeInizialeFinale/Introduzione}
+%\input{MaterialeInizialeFinale/Introduzione}
 \cleardoublepage
 %******************************************************************
 % Materiale principale
 %******************************************************************
 \pagenumbering{arabic}
-\input{Capitoli/lucamartina}
+\input{Capitoli/01-spazio}
+\input{Capitoli/02-acustica}
+\input{Capitoli/03-estetica}
+%\input{Capitoli/03-appunti}
 %\input{Capitoli/Ipsum}
-\appendix
-\input{Capitoli/Dolor}
+%\appendix
+%\input{Capitoli/Dolor}
 % *****************************************************************
 % Materiale finale
 %******************************************************************
-\input{MaterialeInizialeFinale/Bibliografia}
-\input{MaterialeInizialeFinale/Dichiarazione}
+%\input{MaterialeInizialeFinale/Bibliografia}
+%\input{MaterialeInizialeFinale/Dichiarazione}
 \end{document}
+
+
+
+
+
