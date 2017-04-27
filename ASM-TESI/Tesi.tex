@@ -23,7 +23,7 @@
                a4paper,%                   % carta A4
                twoside,openright,%         % fronte-retro
 %              oneside,openany,%           % solo fronte
-               %titlepage,%                 % frontespizio
+               titlepage,%                 % frontespizio
                headinclude,,footinclude,%  % testatina e piede di pagina
                BCOR5mm,%                   % rilegatura di 5 mm
                cleardoublepage=empty,%     % pagine vuote senza testatina e piede di pagina
@@ -76,8 +76,6 @@
 
 \usepackage{eurosym}                       % simbolo dell'euro
 
-\usepackage{pdfpages}
-
 \usepackage[eulerchapternumbers,%          % numeri dei capitoli nel font Euler
             subfig,%                       % se si usa il pacchetto subfig
             beramono,%                     % Bera Mono come font a spaziatura fissa
@@ -91,6 +89,7 @@
 
 \input{impostazioni-tesi}                  % file con le impostazioni personali
 
+\usepackage{pdfpages}
 
 \begin{document}
 \pagestyle{scrheadings} 
@@ -122,8 +121,8 @@
 % *****************************************************************
 % Materiale finale
 %******************************************************************
-\input{MaterialeInizialeFinale/Bibliografia}
-\input{MaterialeInizialeFinale/Dichiarazione}
+%\input{MaterialeInizialeFinale/Bibliografia}
+%\input{MaterialeInizialeFinale/Dichiarazione}
 \end{document}
 
 
