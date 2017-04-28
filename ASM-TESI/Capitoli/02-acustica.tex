@@ -152,7 +152,6 @@ La funzione $F$ è prodotto di convoluzione tra il segnale di input e la rispost
 h(t):y(t)= n(t) + x(t) x h(t)
 \end{equation}
 
-
 \section{Scelta di distribuzione della sorgente e del microfono}
 
 La peculiarità del progetto è quella di usare  quattro diffusori tetraedrici nella sala
@@ -160,13 +159,6 @@ da concerto per ri-descrivere lo spazio sonoro.
 
 Il complesso sonoro tridimensionale è registrato tramite il microfono \emph{a-format}
 messo nei quattro angoli del quadrato con il diffusore omnidirezionale al centro del quadrato. 
-
-\begin{figure}
-\centering
-{\includegraphics[width=.99\columnwidth]{file009.jpg}}
-\caption[Pianta S. Luca]{Catena di misurazione della risposta all'impulso}
-\label{fig:tetratetra}
-\end{figure}
 
 Le distanze sono state misurare ed equilibrate per dislocare i sistemi tetraedrici
 facilmente nello spazio della sala.
@@ -195,6 +187,13 @@ compositive. L'interprete ha eseguito parte del brano in diversi punti della nav
 portando all'attenzione le riflessioni e risonanze preponderanti. 
 Le prove che hanno dato maggior riscontro acustico in funzione musicale riguardano
 il centro della chiesa e la collanna di sinistra vicina al cenacolo.
+
+\begin{figure}
+\centering
+{\includegraphics[width=.85\columnwidth]{file009.jpg}}
+\caption[Pianta S. Luca]{Catena di misurazione della risposta all'impulso}
+\label{fig:tetratetra}
+\end{figure}
 
 la scelta di posizionamento del sistema tetraedrico interno alla chiesa per la
 risposta all'impulso si è basata anche per il posizionamento possibile del sassofonista
@@ -250,16 +249,16 @@ per partire a frequenze cosi basse è stato integrato un sub woofer.
 
 A differenza di un chirp lineare si possono raccogliere maggiori informazioni selle frequenze percepite. 
 
-EQUAZIONE \\
-------file006-----
+\begin{equation}
+x[n] = \sin \Bigl[\frac{\omega1*N}{\ln(\omega2/\omega1)}*\Bigl(e^{\frac{n}{N}*\ln(\omega2/\omega1)}-1\Bigr)\Bigr]
+\end{equation}
 
-w1 frequenza di partenza normalizzata in radianti (frequenza angolare iniziale)
-
-w2 è la frequenza di arrivo in radianti (frequenza angolare finale)
-
-n è l'indice dei sample
-
-n è il numero dei samples
+\begin{description}
+	\item [$w1$] = frequenza di partenza normalizzata in radianti \newline (frequenza angolare iniziale)
+	\item [$w2$] = è la frequenza di arrivo in radianti (frequenza angolare finale)
+	\item [$n$] = è l'indice dei sample
+	\item [$N$] = è il numero dei samples
+\end{description}
 
 Anche questo sistema porta con se, oltre all'effetto di riverbero della stanza anche
 le componenti di rumore e gli effetti di distorsione non lineare di cui parlavamo in
@@ -272,17 +271,16 @@ in quanto la compensazione è fatta nel domnicio digitale e non altera il rappor
 segnale rumore favorendo la gamma di bassa frequenza del segnale di prova.
 
 Vista la registrazione di molteplici risposte bisogna arrivare alla maggior efficenza
-del sistema.
- Lo spettro registrato non risulta perfetto in quanto caratterizzato da frequenze di
- ripple agli estremi, che in taluni casi superano i + 5 db. I confini del chirp ( di start e di stop)
- presentano queste frequenze indesiderate, causa anche la parziale cancellazione di fase e somma sopra il segnale. 
+del sistema. Lo spettro registrato non risulta perfetto in quanto caratterizzato da
+frequenze di ripple agli estremi, che in taluni casi superano i + 5 db. I confini
+del chirp ( di start e di stop) presentano queste frequenze indesiderate, causa
+anche la parziale cancellazione di fase e somma sopra il segnale. 
 
 
 chirp expo:2.5 further ripple reduction: fade-in window  e deconvoluzione
 
 segnale di putput y(t)convoluto con il filtro inverso
 
-risposte markidis
-
+\clearpage
 
 \includepdf[scale=1.3, offset=10 0]{macrostruttura.pdf}
